@@ -3,6 +3,5 @@ print("I changed this on Github for the first time....yayyyy")
 print("New Change!!!")
 print("Main branch things!!")
 print("This is the future")
-print("Hello gays")
-print("Hello guys")
+print("Github pull request")
 
